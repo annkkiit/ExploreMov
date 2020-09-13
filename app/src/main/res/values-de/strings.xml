@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beliebte Filme</string>
+    <string name="drawerClose" translatable="false">" Schubladen schließen"</string>
+    <string name="drawerOpen" translatable="false">Schublade öffnen</string>
+    <string name="err_check_internet" translatable="false">Videodaten konnten nicht geladen werden. Sie benötigen eine Internetverbindung, um Videos anzuzeigen und abzuspielen</string>
+    <string name="err_no_app_found" translatable="false">Es wurden keine Anwendungen gefunden, die diesen Vorgang ausführen</string>
+    <string name="err_no_internet" translatable="false">Keine Internetverbindung</string>
+    <string name="err_no_reviews" translatable="false">Für diesen Film wurden keine Bewertungen gefunden</string>
+    <string name="err_no_videos" translatable="false">Für diesen Film wurden keine Videos gefunden</string>
+    <string name="err_review" translatable="false">Bewertungen konnten nicht geladen werden. Sie benötigen eine Internetverbindung, um Bewertungen zu laden</string>
+    <string name="loading_movies" translatable="false">" Loding Filme .."</string>
+    <string name="movie_cover" translatable="false">" Filmcover"</string>
+    <string name="movie_poster" translatable="false">" Filmcover"</string>
+    <string name="no_favourites" translatable="false">Noch kein Film als Favorit markiert!</string>
+    <string name="reviews" translatable="false">" Bewertungen"</string>
+    <string name="send_to" translatable="false">Teilen mit</string>
+    <string name="share_video" translatable="false">Video teilen</string>
+    <string name="swipe_to_delete" translatable="false">Wischen Sie zum Löschen</string>
+    <string name="synopsis" translatable="false">Zusammenfassung</string>
+    <string name="tab_title_favourites" translatable="false">Favoriten</string>
+    <string name="tab_title_popular" translatable="false">Beliebt</string>
+    <string name="tab_title_top_rated" translatable="false">Bestbewertet</string>
+    <string name="undo" translatable="false">Rückgängig machen</string>
+    <string name="videos" translatable="false">Ähnliche Videos</string>
+    <string name="fav_movie" translatable="false">  Lieblingsfilme</string>
+    <string name="profile" translatable="false">Profil</string>
+    <string name="logout" translatable="false">Ausloggen</string>
+    <string name="change_lang" translatable="false">Sprache ändern</string>
+    <string name="about" translatable="false">Über uns</string>
+
+</resources>
