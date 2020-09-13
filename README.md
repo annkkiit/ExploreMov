@@ -1,1 +1,4 @@
-# ExploreMov
+**FAMOUS MOVIES-DB**
+
+![APPLICATION GIF](/demo.mp4)
+
